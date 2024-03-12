@@ -4,12 +4,20 @@
         <link>https://eternalamit5.github.io/posts/</link>
         <description>All Posts | Amit World</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 16:14:43 &#43;0100</lastBuildDate><atom:link href="https://eternalamit5.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
-    <link>https://eternalamit5.github.io/posts/first_post/</link>
+    <title>second_post</title>
+    <link>https://eternalamit5.github.io/posts/second_post/</link>
     <pubDate>Tue, 12 Mar 2024 16:14:43 &#43;0100</pubDate>
     <author>Amit Singh</author>
-    <guid>https://eternalamit5.github.io/posts/first_post/</guid>
+    <guid>https://eternalamit5.github.io/posts/second_post/</guid>
     <description><![CDATA[Hello World ]]></description>
+</item>
+<item>
+    <title>KTIR Stack = Kafka &#43; Telegraf &#43; InfluxDB &#43; ReactJS Stack</title>
+    <link>https://eternalamit5.github.io/posts/first_post/</link>
+    <pubDate>Tue, 18 Jul 2023 16:14:43 &#43;0100</pubDate>
+    <author>Amit Singh</author>
+    <guid>https://eternalamit5.github.io/posts/first_post/</guid>
+    <description><![CDATA[In the vast landscape of IoT (Internet of Things) applications, managing and processing sensor data efficiently is a critical aspect of extracting valuable insights. As the volume and complexity of data continue to grow, developers and engineers seek robust and scalable solutions to handle real-time data streams effectively. One such solution is the KTIR stack, combining Docker Compose, Kafka, Telegraf, InfluxDB, and ReactJS to create a powerful and comprehensive IoT stack.]]></description>
 </item>
 </channel>
 </rss>
