@@ -3,7 +3,15 @@
         <title>Amit World</title>
         <link>https://eternalamit5.github.io/</link>
         <description>Amit Singh</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 16:14:43 &#43;0100</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 16:37:01 &#43;0100</lastBuildDate>
             <atom:link href="https://eternalamit5.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>First_post</title>
+    <link>https://eternalamit5.github.io/posts/first_post/</link>
+    <pubDate>Tue, 12 Mar 2024 16:14:43 &#43;0100</pubDate>
+    <author>Amit Singh</author>
+    <guid>https://eternalamit5.github.io/posts/first_post/</guid>
+    <description><![CDATA[Hello World ]]></description>
+</item>
+</channel>
 </rss>
